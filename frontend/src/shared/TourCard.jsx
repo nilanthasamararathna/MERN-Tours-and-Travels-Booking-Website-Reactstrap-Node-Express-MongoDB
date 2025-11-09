@@ -1,4 +1,3 @@
-import React from 'react'
 import './tour-card.css'
 import { Card, CardBody } from 'reactstrap'
 import { Link } from 'react-router-dom'
